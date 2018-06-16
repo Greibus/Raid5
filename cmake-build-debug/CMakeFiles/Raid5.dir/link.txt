@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Raid5.dir/main.cpp.o CMakeFiles/Raid5.dir/Controller.cpp.o CMakeFiles/Raid5.dir/File.cpp.o  -o Raid5 

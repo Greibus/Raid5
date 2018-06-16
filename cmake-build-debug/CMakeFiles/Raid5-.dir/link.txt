@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Raid5-.dir/Controller/Controller.cpp.o CMakeFiles/Raid5-.dir/File/File.cpp.o CMakeFiles/Raid5-.dir/main.cpp.o CMakeFiles/Raid5-.dir/Raid5-_autogen/mocs_compilation.cpp.o  -o Raid5- 

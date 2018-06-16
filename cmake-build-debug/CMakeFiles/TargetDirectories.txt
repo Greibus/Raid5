@@ -1,0 +1,4 @@
+/home/tony/CLionProjects/Raid5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tony/CLionProjects/Raid5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tony/CLionProjects/Raid5/cmake-build-debug/CMakeFiles/Raid5-.dir
+/home/tony/CLionProjects/Raid5/cmake-build-debug/CMakeFiles/Raid5-_autogen.dir
